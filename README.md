@@ -35,7 +35,7 @@ config.graphiti.handled_exception_formats += [:xml]
 ## Features
 
 ### Exception Handling
-By default, Rails does a few things to handle exceptions. We integrate into this handling to ensure behavior as close to the Rails defaults while still adding important conventions and additional information provide by Graphiti.
+By default, Rails does a few things to handle exceptions. We integrate into this handling to ensure behavior as close to the Rails defaults while still adding important conventions and additional information provided by Graphiti.
 
 #### `rescue_from`
 
